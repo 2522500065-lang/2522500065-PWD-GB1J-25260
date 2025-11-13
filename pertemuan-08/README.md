@@ -6,4 +6,5 @@ Nama : Tiara Arfiarani
 Kami mempelajari:
 <ol>
 <li>Biodata Sederhana Mahasiswa</li>
-<ol>
+<li>copy index.html</li>
+<li>background biodata</li>
